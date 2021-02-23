@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   double celcius, fahrenheit;
-  
+
   cout << "Enter the temperature in Celcius\n";
   cin >> celcius;
 
